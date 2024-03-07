@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T13:41:51.778Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="udYpzwuFFd8agxmDM2ms" version="24.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-07T14:39:45.323Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="Pny2-QNO4wMxW3ZPFvci" version="24.0.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="NEU">
     <mxGraphModel dx="1364" dy="2084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -342,8 +342,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UqRBn7iEet9FC5rcl8rc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pUJ7_W_8-JwnQ_BJBp06-1" target="UqRBn7iEet9FC5rcl8rc-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="J9Gf-7ZF0GCJSpPBuWYq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pUJ7_W_8-JwnQ_BJBp06-1" target="J9Gf-7ZF0GCJSpPBuWYq-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375" y="-795" />
+              <mxPoint x="380" y="-795" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pUJ7_W_8-JwnQ_BJBp06-1" value="update Status" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="315" y="-870" width="120" height="40" as="geometry" />
@@ -375,7 +380,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UqRBn7iEet9FC5rcl8rc-2" value="&lt;div&gt;checkIfExistingPrestudentRolle&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-690" width="190" height="40" as="geometry" />
+          <mxGeometry x="285" y="-690" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UqRBn7iEet9FC5rcl8rc-3" value="Diese Rolle ist bereits vorhanden!" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="660" y="-700" width="250" height="60" as="geometry" />
@@ -574,6 +579,21 @@
         </mxCell>
         <mxCell id="uhCrqP4CwP8vixlWqUUJ-15" value="&lt;div&gt;Studentlehrverband&lt;/div&gt;&lt;div&gt;vorhanden?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="475" y="250" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J9Gf-7ZF0GCJSpPBuWYq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9Gf-7ZF0GCJSpPBuWYq-3" target="J9Gf-7ZF0GCJSpPBuWYq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J9Gf-7ZF0GCJSpPBuWYq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9Gf-7ZF0GCJSpPBuWYq-3" target="UqRBn7iEet9FC5rcl8rc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J9Gf-7ZF0GCJSpPBuWYq-3" value="&lt;div&gt;checkIfBismeldeStichtagErreicht&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="-760" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J9Gf-7ZF0GCJSpPBuWYq-4" value="Meldestichtag erreicht - Bearbeiten nicht mehr möglich" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-770" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9Gf-7ZF0GCJSpPBuWYq-5" value="nok" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-770" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
