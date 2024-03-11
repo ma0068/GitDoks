@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T06:55:34.889Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="WM7GKt4WTF3OSj0WqVEV" version="24.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-11T07:04:35.075Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="o1Lut643DKdqNzfjxoLl" version="24.0.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="NEU">
     <mxGraphModel dx="1364" dy="2084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -347,40 +347,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B1KfAxX3EYTEQf44bqTb" name="EDIT">
-    <mxGraphModel dx="1364" dy="2084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1364" dy="3253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="J9Gf-7ZF0GCJSpPBuWYq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pUJ7_W_8-JwnQ_BJBp06-1" target="J9Gf-7ZF0GCJSpPBuWYq-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="375" y="-795" />
-              <mxPoint x="380" y="-795" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pUJ7_W_8-JwnQ_BJBp06-1" value="update Status" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="315" y="-870" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pUJ7_W_8-JwnQ_BJBp06-2" value="&lt;div&gt;Berechtigungen&lt;/div&gt;&lt;div&gt;granted_Ass, granted_Adm&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="460" y="-850" width="170" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="J7VgRECZ87xaIi5oeqg1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pUJ7_W_8-JwnQ_BJBp06-4" target="J7VgRECZ87xaIi5oeqg1-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pUJ7_W_8-JwnQ_BJBp06-4" value="&lt;div&gt;&lt;img alt=&quot;&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAyCAYAAADx/eOPAAAABHNCSVQICAgIfAhkiAAABBpJREFUaEPtmltPE0EYht/ZFkqKggIqKgpqUBQPCIpINEZJVKImGqPRGMVDvPLGX+APMPEHGI9FrlBRgwQvNDFRg1IKiGdFQKIWkUKNglTprvMJXUpXY3G2sG36JU262+nM+8z7zezuzDKFByIkpAjh+I0RhTGqmxHljNm/l3v7+lBTW4+6xia4XD3o93gMZ0KcxYLk5MlYkbMUq/NzEW+1qhqZbzYjkMpbdyBJEtYWrMT01KmGA/EJcnZ04t5DO2RZxrbNRSqQmmbkCIHs3r7F0CAERB1NOkkv6faFCkOpRY6EU5Be0q2BoTFi5NT6UyeTXtKtgTHiYP8TQOA5f90RNTVHYQKtNspx1BmjOBGoI+pMYI8Y5XjEjeaYifJ2o6GyAhWODn5vkoudezYhJ8kk3Pw4pNkPNFeXwVbTDrfnB9xtj3DxbDVefhd/etfBGQX9zkbcrK5BU3sP+rwKfq8qMAbLlOXYd6QY2fFssNe9brxu9iCtcD3ynl2D3TUAXhpe12PUtm5G1iIxOWL/5hLlLjvOna7Cyz5tz/50tqH9qzII4+2Bo9yGS489yNxSgsNHd0A5U4E6lxcwT0PaFPEkEYTxouXBPbzmIGziXBRtzEO61SeKIWbSTMxP5ceyG47LNpQ1doMbh1dVpbgoleAgAZ2/CxTtxLpxh1G+41NnL2S+LpKyfAO2rpoNzTDmIPUE0tCNgSHzFPkbXlSWwsaBDh0/hhizSZeVFUFvZchDy26SyYShkTE8K8lf0HCFp1a9SwVRf2RmxFnMMOsEQvUKwgzr1nzjII1XOYhDC8JMk5G7qwT7c5O0TmoqCv5EaGCUXjy/UYrSui78DJgXQgUSMmfkzw5U1Y4tSIhgZHx68gwfaNryixGOKDwFr13AKdt9tOm4mqV/msldaHraCX71UEOTWv2teGRvRdsLO+qd/iVH8I/6QPA6o21PcTfjeQcJZJDikjAvezHyC1YhP32COtvQxsOgbwpf+9LW8b9ndIdhk7JRvE3G58Q5WLpgBhLNmgn7f7X+83+CMCSUPryffUNESkRW4Rpk/bPpwQL8Fk63EBszzIKECWaOo8D97i0+9AeRM8oA3G9a8JGKsngk+G5CdUASdCYGmTkLkdjUAHfrbZw8cXsUkhhiM5ZgWYpYf/o3KFgTg3VhMY4UL0BSzCjyhUmIn5WPA3sLMFVQgT+MoDOUKnHIWLcPJ1a68N7Jn2f43aT2YWC4ScZMiJ2YglmpCYgdBX8wlovDDLVisiYjfV5yMG2GrIyOJodMY9AVR2GC7qoxLhh1Zow7POjmVGdoFzccw1+3CkPb0bSLG05Bekm3L1QY2len7ehwCtJLujUw9IIA7auXX68yvEPkCOkkvaTbF+pLDXQiYt7QCKf0+pvWiLrO/AJUrnOK8MEG0wAAAABJRU5ErkJggg==&quot;&gt;&lt;/div&gt;Status Bearbeiten" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="310" y="-1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="-1290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pUJ7_W_8-JwnQ_BJBp06-5" value="&lt;div&gt;Berechtigung&lt;/div&gt;&lt;div&gt;basis/prestudent&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="450" y="-1080" width="170" height="60" as="geometry" />
+          <mxGeometry x="475" y="-1240" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J7VgRECZ87xaIi5oeqg1-1" value="&lt;div&gt;Berechtigung&lt;/div&gt;&lt;div&gt;basis/prestudent&lt;br&gt;&lt;/div&gt;&lt;div&gt;?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="280" y="-1010" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="J7VgRECZ87xaIi5oeqg1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J7VgRECZ87xaIi5oeqg1-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="-880" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="280" y="-1160" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UqRBn7iEet9FC5rcl8rc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UqRBn7iEet9FC5rcl8rc-2" target="UqRBn7iEet9FC5rcl8rc-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -625,6 +606,33 @@
         </mxCell>
         <mxCell id="3ExMo8n2HMZdVhGy5So4-1" value="Ein Studentenstatus kann hier nur hinzugefuegt werden wenn die Person bereits Student ist. Um einen Bewerber zum Studenten zu machen waehlen Sie bitte unter &#39;Status aendern&#39; den Punkt &#39;Student&#39;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="660" y="-620" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e9LhEwTtdX7xqySGxkMN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J7VgRECZ87xaIi5oeqg1-1" target="pUJ7_W_8-JwnQ_BJBp06-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="-880" as="targetPoint" />
+            <mxPoint x="370" y="-1080" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wW5nQXFpySVNVEQIi8lx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pUJ7_W_8-JwnQ_BJBp06-1" target="wW5nQXFpySVNVEQIi8lx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pUJ7_W_8-JwnQ_BJBp06-1" value="update Status" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="310" y="-1050" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PPM-0GntMaSJ_C1ioA6T-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wW5nQXFpySVNVEQIi8lx-1" target="wW5nQXFpySVNVEQIi8lx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wW5nQXFpySVNVEQIi8lx-1" value="&lt;div&gt;Berechtigungen&lt;/div&gt;&lt;div&gt;Ass, Adm&lt;br&gt; &lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-940" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wW5nQXFpySVNVEQIi8lx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.447;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wW5nQXFpySVNVEQIi8lx-1" target="J9Gf-7ZF0GCJSpPBuWYq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wW5nQXFpySVNVEQIi8lx-4" value="Sie haben keine Schreibrechte fuer diesen Studiengang!" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-930" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ytfUgkn-sDVJmkmdPno-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;Berechtigung:&lt;/p&gt;&lt;p&gt;Berechtigung SkipStatusPrfg:&lt;br&gt;student/keine_studstatuspruefung&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1060" y="-1290" width="220" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
