@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T10:12:11.364Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="r3dt7SnplogMvo3NKdR2" version="24.0.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-14T15:10:34.313Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="2b5W2ZoxeZcjIYaPGWH_" version="24.0.5" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="NEU">
     <mxGraphModel dx="2261" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="aZ8EJI7maptYOY74tRRe-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-395" y="3080" width="902.5" height="210" as="geometry" />
+        </mxCell>
         <mxCell id="MPFToWFzFC_AjdZt-rFD-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-395" y="1722" width="845" height="368" as="geometry" />
         </mxCell>
@@ -477,6 +480,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dpP7MfcxwybuvyKAWP3--1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="420" width="870" height="1004" as="geometry" />
+        </mxCell>
         <mxCell id="J7VgRECZ87xaIi5oeqg1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pUJ7_W_8-JwnQ_BJBp06-4" target="J7VgRECZ87xaIi5oeqg1-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -529,14 +535,10 @@
             <mxPoint x="570" y="-366" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SzTh347V5cms3w9lTh7h-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+        <mxCell id="BzdqZlwbf03GrfUrkiRE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="295" y="-480" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="125" y="-480" />
-              <mxPoint x="125" y="220" />
-            </Array>
-            <mxPoint x="475" y="220" as="targetPoint" />
+            <mxPoint x="239.95" y="310" as="targetPoint" />
+            <mxPoint x="337.95" y="-480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SzTh347V5cms3w9lTh7h-7" value="&lt;div&gt;Berechtigung&lt;/div&gt;&lt;div&gt;SkipStatusPrfg&lt;br&gt;&lt;/div&gt;&lt;div&gt;?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -631,70 +633,20 @@
         <mxCell id="SzTh347V5cms3w9lTh7h-39" value="Studentstatus mit Datum oder Semesterende vor erreichtem Meldestichtag können nicht hinzugefügt werden" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="865" y="190" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uhCrqP4CwP8vixlWqUUJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="uhCrqP4CwP8vixlWqUUJ-7" edge="1">
+        <mxCell id="uhCrqP4CwP8vixlWqUUJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="354" as="sourcePoint" />
-            <mxPoint x="347" y="444" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uhCrqP4CwP8vixlWqUUJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="535" y="774" as="targetPoint" />
-            <mxPoint x="660" y="354" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="765" y="354" />
-              <mxPoint x="765" y="764" />
-              <mxPoint x="535" y="764" />
-            </Array>
+            <mxPoint x="245" y="444" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uhCrqP4CwP8vixlWqUUJ-3" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="352" y="354" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uhCrqP4CwP8vixlWqUUJ-4" value="UPDATE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="445" y="934" width="190" height="40" as="geometry" />
+        <mxCell id="uhCrqP4CwP8vixlWqUUJ-4" value="SAVE PRESTUDENTSTATUS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="239.95" y="1580" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uhCrqP4CwP8vixlWqUUJ-5" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="660" y="364" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uhCrqP4CwP8vixlWqUUJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uhCrqP4CwP8vixlWqUUJ-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="564" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uhCrqP4CwP8vixlWqUUJ-7" value="&lt;div&gt;Studentlehrverband&lt;/div&gt;&lt;div&gt;vorhanden?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="155" y="444" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="uhCrqP4CwP8vixlWqUUJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="385" y="764" as="targetPoint" />
-            <mxPoint x="400" y="604" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="400" y="684" />
-              <mxPoint x="386" y="684" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uhCrqP4CwP8vixlWqUUJ-9" value="Studentlehrverband anlegen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="285" y="564" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uhCrqP4CwP8vixlWqUUJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="uhCrqP4CwP8vixlWqUUJ-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="100" y="769" />
-              <mxPoint x="535" y="769" />
-            </Array>
-            <mxPoint x="100" y="604" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uhCrqP4CwP8vixlWqUUJ-11" value="Studentlehrverband aktualisieren" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="564" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uhCrqP4CwP8vixlWqUUJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.584;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uhCrqP4CwP8vixlWqUUJ-7" target="uhCrqP4CwP8vixlWqUUJ-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uhCrqP4CwP8vixlWqUUJ-13" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="454" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uhCrqP4CwP8vixlWqUUJ-14" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="352" y="444" width="60" height="30" as="geometry" />
@@ -775,6 +727,120 @@
         </mxCell>
         <mxCell id="Zq2SpVy4LdFiXgQ2kEXW-3" value="Back End" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-46.25" y="-1060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dpP7MfcxwybuvyKAWP3--4" target="dpP7MfcxwybuvyKAWP3--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dpP7MfcxwybuvyKAWP3--4" target="dpP7MfcxwybuvyKAWP3--15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-420.05" y="484" />
+              <mxPoint x="-420.05" y="1369" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BzdqZlwbf03GrfUrkiRE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.684;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="uhCrqP4CwP8vixlWqUUJ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="749.9999999999998" y="1470" as="targetPoint" />
+            <mxPoint x="659.9999999999998" y="354" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="354" />
+              <mxPoint x="1010" y="1470" />
+              <mxPoint x="370" y="1470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--4" value="&lt;div&gt;Studentlehrverband&lt;/div&gt;&lt;div&gt;vorhanden?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="159.95" y="444" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--5" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40.05" y="494" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--6" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="259.95" y="769" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dpP7MfcxwybuvyKAWP3--9" target="dpP7MfcxwybuvyKAWP3--19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-200.05" y="879" />
+              <mxPoint x="-200.05" y="1169" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dpP7MfcxwybuvyKAWP3--9" target="dpP7MfcxwybuvyKAWP3--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--9" value="übergeordneter Lehrverband vorhanden?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="159.95" y="839" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--10" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40.05" y="659" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dpP7MfcxwybuvyKAWP3--13" target="dpP7MfcxwybuvyKAWP3--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dpP7MfcxwybuvyKAWP3--13" target="dpP7MfcxwybuvyKAWP3--17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-330.05" y="699" />
+              <mxPoint x="-330.05" y="1289" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--13" value="Lehrverband vorhanden?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="159.95" y="659" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--14" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="239.95" y="544" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dpP7MfcxwybuvyKAWP3--15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="1369" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--15" value="update Studentlehrverband" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-130.05" y="1349" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dpP7MfcxwybuvyKAWP3--17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319.95" y="1369" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--17" value="insert Studentlehrverband" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-130.05" y="1269" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dpP7MfcxwybuvyKAWP3--19" target="dpP7MfcxwybuvyKAWP3--17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--19" value="Lehrverband anlegen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-130.05" y="1149" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--20" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40.05" y="819" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dpP7MfcxwybuvyKAWP3--22" target="dpP7MfcxwybuvyKAWP3--19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--22" value="übergeordneten Lehrverband anlegen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-130.05" y="1007" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--23" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="269.95" y="969" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dpP7MfcxwybuvyKAWP3--27" value="process Studentlehrverband" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-150" y="444" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BzdqZlwbf03GrfUrkiRE-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.448;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="uhCrqP4CwP8vixlWqUUJ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1360" as="sourcePoint" />
+            <mxPoint x="240" y="1460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BzdqZlwbf03GrfUrkiRE-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="310" as="sourcePoint" />
+            <mxPoint x="570" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -858,76 +924,22 @@
         <mxCell id="gXBwXuUoYOvdn6AMQaLh-4" value="nok" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="-790" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3oEAEcW45THc4sdZbWgy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="3oEAEcW45THc4sdZbWgy-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="-270" as="sourcePoint" />
-            <mxPoint x="147" y="-180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3oEAEcW45THc4sdZbWgy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="335" y="150" as="targetPoint" />
-            <mxPoint x="460" y="-270" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="565" y="-270" />
-              <mxPoint x="565" y="140" />
-              <mxPoint x="335" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3oEAEcW45THc4sdZbWgy-3" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="152" y="-270" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3oEAEcW45THc4sdZbWgy-4" value="saveStatus" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="245" y="310" width="190" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="3oEAEcW45THc4sdZbWgy-5" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="-260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3oEAEcW45THc4sdZbWgy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3oEAEcW45THc4sdZbWgy-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-100" y="-60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3oEAEcW45THc4sdZbWgy-7" value="&lt;div&gt;Studentlehrverband&lt;/div&gt;&lt;div&gt;vorhanden?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-45" y="-180" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3oEAEcW45THc4sdZbWgy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="185" y="140" as="targetPoint" />
-            <mxPoint x="200" y="-20" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="200" y="60" />
-              <mxPoint x="186" y="60" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3oEAEcW45THc4sdZbWgy-9" value="Studentlehrverband anlegen (semester+1, gruppe und verband)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="85" y="-60" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3oEAEcW45THc4sdZbWgy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="3oEAEcW45THc4sdZbWgy-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-100" y="145" />
-              <mxPoint x="335" y="145" />
-            </Array>
-            <mxPoint x="-100" y="-20" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3oEAEcW45THc4sdZbWgy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.584;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3oEAEcW45THc4sdZbWgy-7" target="3oEAEcW45THc4sdZbWgy-9" edge="1">
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3oEAEcW45THc4sdZbWgy-14" target="sDPXgPzqhz1jb1x5fgiK-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3oEAEcW45THc4sdZbWgy-12" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="-170" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3oEAEcW45THc4sdZbWgy-13" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="152" y="-180" width="60" height="30" as="geometry" />
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3oEAEcW45THc4sdZbWgy-14" target="sDPXgPzqhz1jb1x5fgiK-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="-270" />
+              <mxPoint x="650" y="980" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3oEAEcW45THc4sdZbWgy-14" value="Student&lt;br&gt;?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="280" y="-310" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="isSbtnriPbULewFbMLTJ-1" value="Studentlehrverband aktualisieren" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="-60" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HVS1OHNexYEmimICMqB5-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -940,6 +952,115 @@
         </mxCell>
         <mxCell id="HVS1OHNexYEmimICMqB5-3" value="Back End" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2.5" y="-880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="-200" width="870" height="1004" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-2" value="SAVE PRESTUDENTSTATUS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="29.94999999999999" y="960" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-3" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="142" y="-176" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sDPXgPzqhz1jb1x5fgiK-6" target="sDPXgPzqhz1jb1x5fgiK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sDPXgPzqhz1jb1x5fgiK-6" target="sDPXgPzqhz1jb1x5fgiK-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-630.05" y="-136" />
+              <mxPoint x="-630.05" y="749" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-6" value="&lt;div&gt;Studentlehrverband&lt;/div&gt;&lt;div&gt;vorhanden?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-50.05000000000001" y="-176" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-7" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250.05" y="-126" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-8" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="49.94999999999999" y="149" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sDPXgPzqhz1jb1x5fgiK-11" target="sDPXgPzqhz1jb1x5fgiK-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-410.05" y="259" />
+              <mxPoint x="-410.05" y="549" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sDPXgPzqhz1jb1x5fgiK-11" target="sDPXgPzqhz1jb1x5fgiK-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-11" value="übergeordneter Lehrverband vorhanden?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-50.05000000000001" y="219" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-12" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250.05" y="39" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sDPXgPzqhz1jb1x5fgiK-15" target="sDPXgPzqhz1jb1x5fgiK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDPXgPzqhz1jb1x5fgiK-15" target="sDPXgPzqhz1jb1x5fgiK-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-540.05" y="79" />
+              <mxPoint x="-540.05" y="669" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-15" value="Lehrverband vorhanden?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-50.05000000000001" y="39" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-16" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="29.94999999999999" y="-76" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDPXgPzqhz1jb1x5fgiK-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="749" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-18" value="update Studentlehrverband" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-340.05" y="729" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDPXgPzqhz1jb1x5fgiK-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="109.94999999999999" y="749" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-20" value="insert Studentlehrverband" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-340.05" y="649" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sDPXgPzqhz1jb1x5fgiK-22" target="sDPXgPzqhz1jb1x5fgiK-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-22" value="Lehrverband anlegen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-340.05" y="529" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-23" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250.05" y="199" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sDPXgPzqhz1jb1x5fgiK-25" target="sDPXgPzqhz1jb1x5fgiK-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-25" value="übergeordneten Lehrverband anlegen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-340.05" y="387" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-26" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="59.94999999999999" y="349" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-27" value="process Studentlehrverband" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-360" y="-176" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.448;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="sDPXgPzqhz1jb1x5fgiK-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="740" as="sourcePoint" />
+            <mxPoint x="30" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sDPXgPzqhz1jb1x5fgiK-30" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="109.94999999999999" y="-270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
