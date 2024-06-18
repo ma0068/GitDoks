@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T12:33:34.009Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="YVJI6ySgZckzXVALs4qO" version="24.5.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-06-18T12:42:27.172Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="I8tJ9hCrQ2YFdh8JsITQ" version="24.5.4" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="NEU">
     <mxGraphModel dx="2261" dy="2111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -250,8 +250,8 @@
         <mxCell id="BZ78nhbLjU7jXCVthc9n-12" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="510" y="1490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BZ78nhbLjU7jXCVthc9n-13" value="Insert prestudentstatus" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="311" y="3344" width="165" height="40" as="geometry" />
+        <mxCell id="BZ78nhbLjU7jXCVthc9n-13" value="INSERT PRESTUDENTSTATUS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="252" y="1990" width="189" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BZ78nhbLjU7jXCVthc9n-15" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="780" y="1540" width="60" height="30" as="geometry" />
@@ -259,8 +259,8 @@
         <mxCell id="BZ78nhbLjU7jXCVthc9n-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BZ78nhbLjU7jXCVthc9n-17" target="BZ78nhbLjU7jXCVthc9n-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="1420" />
-              <mxPoint x="850" y="1410" />
+              <mxPoint x="940" y="1420" />
+              <mxPoint x="940" y="1420" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -274,7 +274,7 @@
           <mxGeometry x="820" y="1380" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BZ78nhbLjU7jXCVthc9n-21" value="Studentstatus mit Datum oder Semesterende vor erreichtem Meldestichtag können nicht hinzugefügt werden" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="970" y="1390" width="250" height="60" as="geometry" />
+          <mxGeometry x="960" y="1390" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJob-aYU3u1GZJVrYJCY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aJob-aYU3u1GZJVrYJCY-1" target="aJob-aYU3u1GZJVrYJCY-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -288,19 +288,11 @@
         <mxCell id="aJob-aYU3u1GZJVrYJCY-3" value="nok" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="615" y="-440" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MPFToWFzFC_AjdZt-rFD-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t7Bf01IUnPvOO09kDVVq-0" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="334" y="1730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="t7Bf01IUnPvOO09kDVVq-0" value="&lt;div&gt;getUid and loadStudent &lt;br&gt;&lt;/div&gt;&lt;div&gt;(verband und gruppe)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="239" y="1550" width="190" height="66" as="geometry" />
         </mxCell>
         <mxCell id="MPFToWFzFC_AjdZt-rFD-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;noch nicht berücksichtigte Logiken&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;strike&gt;SEND_BEWERBER_INFOMAIL&lt;br&gt;&lt;/strike&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Unterbrecher zu Studenten&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;strike&gt;Abbrecher und Absolventen: aktivstatus auf false setzen&lt;/strike&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;noch nicht eingetragene Noten ergänzen&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;strike&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Fehlerlogik mit Anzahl Fehler&lt;/font&gt;&lt;br&gt;&lt;/strike&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-175" y="3430" width="540" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="MPFToWFzFC_AjdZt-rFD-29" value="processStudentlehrverband" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-10" y="1910" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MPFToWFzFC_AjdZt-rFD-67" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -406,6 +398,18 @@
         </mxCell>
         <mxCell id="YnUxxfoGCGDjtA54iKCL-61" value="ok" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="692.5" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FeHThgw4-Pv7_4m43VEe-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YnUxxfoGCGDjtA54iKCL-62" target="BZ78nhbLjU7jXCVthc9n-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YnUxxfoGCGDjtA54iKCL-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="1710" width="430" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="MPFToWFzFC_AjdZt-rFD-29" value="processStudentlehrverband" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="316.5" y="1760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ie8I7y90ZrOEjkWpgs4V-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.519;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t7Bf01IUnPvOO09kDVVq-0" target="YnUxxfoGCGDjtA54iKCL-62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2235,6 +2239,14 @@
         </mxCell>
         <mxCell id="Pq_K1WdDaimQ9zEIpoDb-42" value="&lt;div&gt;update Student&lt;/div&gt;&lt;div&gt;(if Abbrecher/ Unterbrecher)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="3194" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kISXIUNjeMKAh5DkA8Ew-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kISXIUNjeMKAh5DkA8Ew-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="574" y="1720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kISXIUNjeMKAh5DkA8Ew-1" value="&lt;div&gt;getUid and loadStudent &lt;br&gt;&lt;/div&gt;&lt;div&gt;(verband und gruppe)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="479" y="1490" width="190" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
