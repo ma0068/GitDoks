@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T14:25:23.545Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="nLKujfacVjmQr-rx4dBm" version="24.5.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-06-24T15:50:53.205Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="GWwLDGFrOZcNEcf_7Pbo" version="24.6.0" type="github" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="NEU">
     <mxGraphModel dx="2261" dy="2111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2286,6 +2286,121 @@
         </mxCell>
         <mxCell id="fEmVcx7RQsW4u4gOEBOb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.455;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fEmVcx7RQsW4u4gOEBOb-5" target="fEmVcx7RQsW4u4gOEBOb-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="W0t0_LAtQu5fBQch76SP" name="checkIfValidStatusHistory">
+    <mxGraphModel dx="2191" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="286.25" y="930" as="targetPoint" />
+            <mxPoint x="286.25" y="930" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="100" y="560" width="380" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZG9WJ_VObarMqJekzbF2-4" target="ZG9WJ_VObarMqJekzbF2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="345" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-5" value="&lt;div&gt;checkDatumStatus&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="610" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-6" value="&lt;div&gt;checkDatum Semesterstart&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="292" y="610" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-7" value="&lt;div&gt;Abbrecher und Absolvent:&lt;/div&gt;&lt;div&gt;letzter Status&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="690" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZG9WJ_VObarMqJekzbF2-9" target="ZG9WJ_VObarMqJekzbF2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-9" value="aufeinanderfolgende Unterbrecher: gleiches Ausbildungssemester" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="760" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZG9WJ_VObarMqJekzbF2-12" target="ZG9WJ_VObarMqJekzbF2-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-12" value="Abbrecher nach Unterbrecher: gleiches Ausbildungssemester" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="830" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-13" value="checkIfValidStatusHistory" style="text;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="215" y="570" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-14" value="Datum des Statuseintrags muss nach dem Statusdatum, das Semesterstartdatum nach Semesterstartdatum des vorherigen Statuseintrags sein" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="575" y="600" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-15" value="nok" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-16" value="Nach Abbrecher- und Absolventenstatus darf kein anderer Status mehr eingetragen werden" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="575" y="680" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-17" value="nok" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZG9WJ_VObarMqJekzbF2-7" target="ZG9WJ_VObarMqJekzbF2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-19" value="Aufeinanderfolgende Unterbrecher müssen gleiches Ausbildungssemester haben" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="575" y="750" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-20" value="nok" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-21" value="Unterbrecher und folgender Abbrecher müssen gleiches Ausbildungssemester haben" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="575" y="820" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-22" value="nok" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-26" value="&lt;div style=&quot;color: #d4d4d4;background-color: #1e1e1e;font-family: &#39;Liberation Mono&#39;, &#39;Droid Sans Mono&#39;, &#39;monospace&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;lehre&#39;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;error_endstatus&#39;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="690" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-27" value="&lt;div style=&quot;color: #d4d4d4;background-color: #1e1e1e;font-family: &#39;Liberation Mono&#39;, &#39;Droid Sans Mono&#39;, &#39;monospace&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;lehre&#39;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;error_consecutiveUnterbrecher&#39;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="760" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-28" value="&lt;div style=&quot;color: #d4d4d4;background-color: #1e1e1e;font-family: &#39;Liberation Mono&#39;, &#39;Droid Sans Mono&#39;, &#39;monospace&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;lehre&#39;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;error_consecutiveUnterbrecherAbbrecher&#39;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="830" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-29" value="&lt;div style=&quot;color: #d4d4d4;background-color: #1e1e1e;font-family: &#39;Liberation Mono&#39;, &#39;Droid Sans Mono&#39;, &#39;monospace&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;lehre&#39;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;error_consecutiveDiplomandStudent&#39;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-223.75" y="900" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-30" value="Vor Studentstatus kein DiplomandStatus" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="213.75" y="900" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-31" value="Nach Diplomandenstatus darf kein Studentenstatus mehr eingetragen werden" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="573.75" y="900" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZG9WJ_VObarMqJekzbF2-30" target="ZG9WJ_VObarMqJekzbF2-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-33" value="nok" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="453.75" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-34" value="&lt;div style=&quot;color: #d4d4d4;background-color: #1e1e1e;font-family: &#39;Liberation Mono&#39;, &#39;Droid Sans Mono&#39;, &#39;monospace&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;lehre&#39;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;error_wrongStatusOrderBeforeStudent&#39;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-243.75" y="980" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZG9WJ_VObarMqJekzbF2-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-35" value="Abfolge: Interessent - Bewerber - Aufgenommener" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="213.75" y="980" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-37" value="nok" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="453.75" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG9WJ_VObarMqJekzbF2-40" value="Vor dem Studentenstatus müssen folgende Status eingetragen werden: Interessent, Bewerber, Aufgenommener" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="573.75" y="990" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
