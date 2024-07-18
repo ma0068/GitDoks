@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T12:02:30.392Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="zJc_fZPnPclqs6iFpfNF" version="24.6.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-07-18T15:01:29.237Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="XnoNcGSBPN7r_a0iYIHx" version="24.6.5" type="github" pages="11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="NEU">
     <mxGraphModel dx="2261" dy="2111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2128,16 +2128,16 @@
         <mxCell id="fx9NCnOXFbbmaVzjvdMn-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.588;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fx9NCnOXFbbmaVzjvdMn-1" source="fx9NCnOXFbbmaVzjvdMn-37" target="fx9NCnOXFbbmaVzjvdMn-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fx9NCnOXFbbmaVzjvdMn-39" value="&lt;div&gt;addStudent&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+        <mxCell id="fx9NCnOXFbbmaVzjvdMn-39" value="changeInteressentToStudent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
           <mxGeometry x="10" y="-824" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fx9NCnOXFbbmaVzjvdMn-40" value="&lt;div&gt;changeStatusToWartender&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
           <mxGeometry x="880" y="-824" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fx9NCnOXFbbmaVzjvdMn-43" value="addStudent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+        <mxCell id="fx9NCnOXFbbmaVzjvdMn-43" value="changeInteressentToStudent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
           <mxGeometry x="220" y="-824" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fx9NCnOXFbbmaVzjvdMn-45" value="addStudent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+        <mxCell id="fx9NCnOXFbbmaVzjvdMn-45" value="changeInteressentToStudent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
           <mxGeometry x="460" y="-824" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fx9NCnOXFbbmaVzjvdMn-47" value="&lt;div&gt;changeStatusToBewerber&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
@@ -2598,7 +2598,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2BQXE8YZDKNBRfBRgXIR" name="TURN INTO STUDENT">
-    <mxGraphModel dx="607" dy="3280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="537" dy="3133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
