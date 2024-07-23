@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T15:50:10.378Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="y_-b_SLvksYJ_30cMXAr" version="24.7.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-07-23T15:51:24.446Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="9_rSxuhRartpt_e2cXDu" version="24.7.1" type="github" pages="11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="NEU">
     <mxGraphModel dx="2261" dy="2111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2177,10 +2177,10 @@
         <mxCell id="5drZkR9Mh39n9xAChDjf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" source="5drZkR9Mh39n9xAChDjf-7" target="5drZkR9Mh39n9xAChDjf-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5drZkR9Mh39n9xAChDjf-7" value="Wiederholder" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
+        <mxCell id="5drZkR9Mh39n9xAChDjf-7" value="Wiederholer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="677" y="-790" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5drZkR9Mh39n9xAChDjf-8" value="addStudent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
+        <mxCell id="5drZkR9Mh39n9xAChDjf-8" value="changeInteressentToStudent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="677" y="-650" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5drZkR9Mh39n9xAChDjf-9" value="&lt;div&gt;InteressentzuStudent&lt;/div&gt;&lt;div&gt;(StatusgrundId)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
