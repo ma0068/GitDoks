@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T07:31:15.928Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="6eUB6mklMAG5LhdALepe" version="24.7.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-07-23T15:50:10.378Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="y_-b_SLvksYJ_30cMXAr" version="24.7.1" type="github" pages="11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="NEU">
     <mxGraphModel dx="2261" dy="2111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2010,7 +2010,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="STATUS ÄNDERN_ INTERESSENT" id="epTgBTQJvmRDOiRlPQ8N">
-    <mxGraphModel dx="2226" dy="3831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2191" dy="3133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fx9NCnOXFbbmaVzjvdMn-0" />
         <mxCell id="fx9NCnOXFbbmaVzjvdMn-1" parent="fx9NCnOXFbbmaVzjvdMn-0" />
@@ -2195,52 +2195,52 @@
         <mxCell id="5drZkR9Mh39n9xAChDjf-13" value="Absage" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="1120" y="-909" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5drZkR9Mh39n9xAChDjf-14" value="&lt;div&gt;changeStatusToWartender&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
+        <mxCell id="5drZkR9Mh39n9xAChDjf-14" value="&lt;div&gt;changeStatusToAbgewiesen&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="1120" y="-649" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5drZkR9Mh39n9xAChDjf-17" value="InteressentAddRolle&lt;br&gt;(Abgewiesener, StatusgrundId)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="1120" y="-586" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PuFdzAJxkDzeWDxSw0xZ-0" value="&lt;div&gt;studiensemkurzbz &lt;br&gt;&lt;/div&gt;&lt;div&gt;!=&lt;/div&gt;&lt;div&gt;Bewerberstatus?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+        <mxCell id="PuFdzAJxkDzeWDxSw0xZ-0" value="&lt;div&gt;studiensemkurzbz &lt;br&gt;&lt;/div&gt;&lt;div&gt;!=&lt;/div&gt;&lt;div&gt;Bewerberstatus?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="-200" y="-466" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PuFdzAJxkDzeWDxSw0xZ-1" value="getStudiensemester of Bewerberstatus" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+        <mxCell id="PuFdzAJxkDzeWDxSw0xZ-1" value="getStudiensemester of Bewerberstatus" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="-190" y="-346" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PuFdzAJxkDzeWDxSw0xZ-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;FAS -REF &lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+        <mxCell id="PuFdzAJxkDzeWDxSw0xZ-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;FAS -REF &lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="-530" y="-586" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PuFdzAJxkDzeWDxSw0xZ-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;SPEZIELLE VALIDIERUNGEN&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+        <mxCell id="PuFdzAJxkDzeWDxSw0xZ-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;SPEZIELLE VALIDIERUNGEN&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="-810" y="164" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YBWURMc10x6eyCPVXa10-0" value="Person muss zuerst zum Bewerber gemacht werden!" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+        <mxCell id="YBWURMc10x6eyCPVXa10-0" value="Person muss zuerst zum Bewerber gemacht werden!" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="-190" y="154" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JAoluDArH3fzw8M-xxWk-0" value="Um einen Interessenten zum Bewerber zu machen, muss die Zugangsvoraussetzung Master eingetragen sein" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+        <mxCell id="JAoluDArH3fzw8M-xxWk-0" value="Um einen Interessenten zum Bewerber zu machen, muss die Zugangsvoraussetzung Master eingetragen sein" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="-430" y="354" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JAoluDArH3fzw8M-xxWk-1" value="Um einen Interessenten zum Bewerber zu machen, muss die Zugangsvoraussetzung eingetragen sein" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+        <mxCell id="JAoluDArH3fzw8M-xxWk-1" value="Um einen Interessenten zum Bewerber zu machen, muss die Zugangsvoraussetzung eingetragen sein" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="-430" y="254" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WKD0qWdNhznaavgJSnDU-0" value="Um einen Interessenten zum Bewerber zu machen, muss die Person das Reihungstestverfahren abgeschlossen haben" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+        <mxCell id="WKD0qWdNhznaavgJSnDU-0" value="Um einen Interessenten zum Bewerber zu machen, muss die Person das Reihungstestverfahren abgeschlossen haben" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="-430" y="154" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WKD0qWdNhznaavgJSnDU-1" value="&lt;b&gt;STATUS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+        <mxCell id="WKD0qWdNhznaavgJSnDU-1" value="&lt;b&gt;STATUS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="-520" y="-915" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WKD0qWdNhznaavgJSnDU-2" value="&lt;b&gt;STATUS&lt;/b&gt;GRUND" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+        <mxCell id="WKD0qWdNhznaavgJSnDU-2" value="&lt;b&gt;STATUS&lt;/b&gt;GRUND" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="-515" y="-780" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WKD0qWdNhznaavgJSnDU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.451;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fx9NCnOXFbbmaVzjvdMn-1" source="fx9NCnOXFbbmaVzjvdMn-37" target="fx9NCnOXFbbmaVzjvdMn-20">
+        <mxCell id="WKD0qWdNhznaavgJSnDU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.451;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" source="fx9NCnOXFbbmaVzjvdMn-37" target="fx9NCnOXFbbmaVzjvdMn-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WKD0qWdNhznaavgJSnDU-4" value="null" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+        <mxCell id="WKD0qWdNhznaavgJSnDU-4" value="null" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="17" y="-790" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WKD0qWdNhznaavgJSnDU-6" value="null" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+        <mxCell id="WKD0qWdNhznaavgJSnDU-6" value="null" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="-382.5" y="-790" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WKD0qWdNhznaavgJSnDU-7" value="null" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+        <mxCell id="WKD0qWdNhznaavgJSnDU-7" value="null" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="-190" y="-790" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
