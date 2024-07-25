@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T15:51:24.446Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="9_rSxuhRartpt_e2cXDu" version="24.7.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-07-25T11:57:42.705Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="6ORLwzHotaKARYPqXJCK" version="24.7.1" type="github" pages="11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="NEU">
     <mxGraphModel dx="2261" dy="2111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2010,7 +2010,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="STATUS ÄNDERN_ INTERESSENT" id="epTgBTQJvmRDOiRlPQ8N">
-    <mxGraphModel dx="2191" dy="3133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2191" dy="3253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fx9NCnOXFbbmaVzjvdMn-0" />
         <mxCell id="fx9NCnOXFbbmaVzjvdMn-1" parent="fx9NCnOXFbbmaVzjvdMn-0" />
@@ -2076,13 +2076,13 @@
         <mxCell id="fx9NCnOXFbbmaVzjvdMn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" source="fx9NCnOXFbbmaVzjvdMn-22" target="fx9NCnOXFbbmaVzjvdMn-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fx9NCnOXFbbmaVzjvdMn-22" value="Pre-Abbrecher" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
+        <mxCell id="fx9NCnOXFbbmaVzjvdMn-22" value="Pre-Abbrecher (19)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="220" y="-790" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fx9NCnOXFbbmaVzjvdMn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" source="fx9NCnOXFbbmaVzjvdMn-24" target="fx9NCnOXFbbmaVzjvdMn-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fx9NCnOXFbbmaVzjvdMn-24" value="Pre-Wiederholder" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
+        <mxCell id="fx9NCnOXFbbmaVzjvdMn-24" value="Pre-Wiederholder (15)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="460" y="-790" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fx9NCnOXFbbmaVzjvdMn-26" value="Wartender" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
@@ -2117,8 +2117,8 @@
         <mxCell id="fx9NCnOXFbbmaVzjvdMn-43" value="changeInteressentToStudent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="220" y="-650" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fx9NCnOXFbbmaVzjvdMn-45" value="changeInteressentToStudent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
-          <mxGeometry x="460" y="-650" width="160" height="40" as="geometry" />
+        <mxCell id="fx9NCnOXFbbmaVzjvdMn-45" value="changeInteressentToStudent(15)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
+          <mxGeometry x="450" y="-650" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fx9NCnOXFbbmaVzjvdMn-47" value="&lt;div&gt;changeStatusToBewerber&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="-380" y="-650" width="160" height="40" as="geometry" />
@@ -2177,7 +2177,7 @@
         <mxCell id="5drZkR9Mh39n9xAChDjf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" source="5drZkR9Mh39n9xAChDjf-7" target="5drZkR9Mh39n9xAChDjf-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5drZkR9Mh39n9xAChDjf-7" value="Wiederholer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
+        <mxCell id="5drZkR9Mh39n9xAChDjf-7" value="Wiederholer (16)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="677" y="-790" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5drZkR9Mh39n9xAChDjf-8" value="changeInteressentToStudent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
