@@ -2142,6 +2142,9 @@
         <mxCell id="iWf0h0OERvFzAW1zlXoD-0" value="&lt;div&gt;Statusgründe Absage&lt;br&gt;&lt;/div&gt;&lt;div&gt;(2) Keine Antwort&lt;/div&gt;(3) ZGV nicht erfüllt&lt;br&gt;(4) Von BewerberIn storniert&lt;br&gt;(5) Aufnahme in anderen Studiengang&lt;br&gt;(6) Reihungstestergebnis unzureichend&lt;br&gt;(7) Sonstiges&lt;br&gt;(12) Nicht zum Aufnahmeverfahren angemeldet/angetreten&lt;br&gt;(13) Zahlung nicht erfolgt" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="1105" y="-840" width="345" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="b5JoDiGL61CgwBSzPwnh-0" value="Person muss zuerst zum Aufgenommenen gemacht werden!" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="fx9NCnOXFbbmaVzjvdMn-1">
+          <mxGeometry x="42.5" y="154" width="170" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
