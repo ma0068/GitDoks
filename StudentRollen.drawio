@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.5" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.6" pages="11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="NEU">
     <mxGraphModel dx="2261" dy="2111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2049,7 +2049,7 @@
         <mxCell id="5drZkR9Mh39n9xAChDjf-2" value="InteressentAddRolle&lt;br&gt;&lt;div&gt;(Aufgenommener, StatusgrundId)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;addrolle(aufgenommener)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="-182.5" y="-586" width="145" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5drZkR9Mh39n9xAChDjf-4" value="&lt;div&gt;InteressentzuStudent&lt;/div&gt;&lt;div&gt;(StatusgrundId)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
+        <mxCell id="5drZkR9Mh39n9xAChDjf-4" value="&lt;div&gt;InteressentzuStudent&lt;/div&gt;&lt;div&gt;(StatusgrundId)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BewerberZuStudent&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="17" y="-586" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5drZkR9Mh39n9xAChDjf-5" value="InteressentAddRolle&lt;br&gt;(Wartender, StatusgrundId)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
@@ -2064,13 +2064,13 @@
         <mxCell id="5drZkR9Mh39n9xAChDjf-8" value="changeInteressentToStudent(16)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="660" y="-650" width="178" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5drZkR9Mh39n9xAChDjf-9" value="&lt;div&gt;InteressentzuStudent&lt;/div&gt;&lt;div&gt;(StatusgrundId)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
+        <mxCell id="5drZkR9Mh39n9xAChDjf-9" value="&lt;div&gt;InteressentzuStudent&lt;/div&gt;&lt;div&gt;(StatusgrundId)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BewerberZuStudent&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="227.5" y="-586" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5drZkR9Mh39n9xAChDjf-10" value="&lt;div&gt;InteressentzuStudent&lt;/div&gt;&lt;div&gt;(StatusgrundId)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
+        <mxCell id="5drZkR9Mh39n9xAChDjf-10" value="&lt;div&gt;InteressentzuStudent&lt;/div&gt;&lt;div&gt;(StatusgrundId)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BewerberZuStudent&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="460" y="-586" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5drZkR9Mh39n9xAChDjf-11" value="&lt;div&gt;InteressentzuStudent&lt;/div&gt;&lt;div&gt;(StatusgrundId)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
+        <mxCell id="5drZkR9Mh39n9xAChDjf-11" value="&lt;div&gt;InteressentzuStudent&lt;/div&gt;&lt;div&gt;(StatusgrundId)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BewerberZuStudent&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
           <mxGeometry x="682" y="-586" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5drZkR9Mh39n9xAChDjf-13" value="Abgewiesener(Statusgrund_id)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fx9NCnOXFbbmaVzjvdMn-1" vertex="1">
